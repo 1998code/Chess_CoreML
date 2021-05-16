@@ -17,5 +17,5 @@ Method: Find a chess website, e.g., (https://www.chess.com) and view the confide
 <img width="830" alt="S1" src="https://user-images.githubusercontent.com/54872601/118402888-78a37b80-b69e-11eb-8e8d-b7786a693aed.png">
 <img width="830" alt="S2" src="https://user-images.githubusercontent.com/54872601/118402970-d932b880-b69e-11eb-97f5-9666c6afaad8.png">
 
-## Raw Data Source
+## Source
 https://www.kaggle.com/niteshfre/chessman-image-dataset
