@@ -1,7 +1,7 @@
 # Chess_CoreML
 Six chess objects including Bishop, King, Knight, Pawn, Queen, and Rook.
 
-## Training
+## Train
 Total items | Total Classes
 ----------- | -------------
 553 | 6
